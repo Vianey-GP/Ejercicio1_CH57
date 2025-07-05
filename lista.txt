@@ -6,3 +6,5 @@ Lista de singers favs actual:
 5.Bad bunny
 6.Karol G
 7.Shawn Mendes
+8.Sabino
+9.Danny Ocean
