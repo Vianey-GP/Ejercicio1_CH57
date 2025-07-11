@@ -8,3 +8,6 @@ Lista de singers favs actual:
 7.Shawn Mendes
 8.Sabino
 9.Danny Ocean
+10.Justin Bieber
+11.La Rosalia
+12.Kaliuchis
